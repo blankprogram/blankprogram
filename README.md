@@ -2,7 +2,7 @@
 
 ### Software Engineering Student @UNSW  
 Passionate about mostly everything, especially when there's something new to learn.  
-<span style="color:red">some **This is Red Bold.** text</span>
+$$\textcolor{pink}{\text{Kirby Enthusiast}}$$
 
 ---
 
