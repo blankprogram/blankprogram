@@ -4,7 +4,7 @@ Software Engineering Student @UNSW
 Passionate about mostly everything especially when there's something new to learn.
 Kirby Enthusiast  
 
-## 📈 GitHub Stats
+## 📈 some art from a GiF/Image to ASCII project
 ![Kirby](./kirby.gif)
 
 ## 📫 Contact Me
