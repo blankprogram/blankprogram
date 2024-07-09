@@ -1,4 +1,4 @@
-# Hi there, I'm Jamal Elmir
+# Hi there, I'm Jamal Elmir 👋
 
 ### Software Engineering Student @UNSW  
 Passionate about mostly everything, especially when there's something new to learn.  
@@ -11,6 +11,6 @@ Passionate about mostly everything, especially when there's something new to lea
 
 ---
 
-## 📫 Contact Me
+##  Contact Me
 - **Email**: [jelmirapp@gmail.com](mailto:jelmirapp@gmail.com)
 - **LinkedIn**: [linkedin.com/in/jamalelmir](https://www.linkedin.com/in/jamalelmir/)
