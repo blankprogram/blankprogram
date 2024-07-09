@@ -5,7 +5,7 @@ Passionate about mostly everything especially when there's something new to lear
 Kirby Enthusiast  
 
 ## 📈 GitHub Stats
-![Jamal's GitHub stats](https://github-readme-stats.vercel.app/api?username=blankprogram&show_icons=true&theme=radical)
+![Kirby](./kirby.gif)
 
 ## 📫 Contact Me
 - [Email](mailto:jelmirapp@gmail.com)
