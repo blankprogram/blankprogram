@@ -2,7 +2,7 @@
 
 ### Software Engineering Student @UNSW  
 Passionate about mostly everything, especially when there's something new to learn.  
-${\textsf{\color{lightgreen}Green}}$
+${\textsf{\color{pink}Kirby Enthusiast}}$
 
 ---
 
