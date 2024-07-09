@@ -12,5 +12,5 @@ ${\textsf{\color{pink}Kirby Enthusiast}}$
 ---
 
 ##  Contact Me
-- **Email**: [jelmirapp@gmail.com](mailto:jelmirapp@gmail.com)
-- **LinkedIn**: [linkedin.com/in/jamalelmir](https://www.linkedin.com/in/jamalelmir/)
+- [**Email**]: (mailto:jelmirapp@gmail.com)
+- [**LinkedIn**]:(https://www.linkedin.com/in/jamalelmir/)
