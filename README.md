@@ -1,4 +1,4 @@
-# Hi there, I'm Jamal Elmir 👋
+# Hi there, I'm Jamal Elmir
 
 ### Software Engineering Student @UNSW  
 Passionate about mostly everything, especially when there's something new to learn.  
